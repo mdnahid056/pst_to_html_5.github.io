@@ -1,0 +1,311 @@
+@media (min-width:280px) { 
+    section {
+        position: relative;
+        top: 610px !important;
+        bottom: 0;
+    }
+.titilex{
+    box-sizing: border-box;
+    position: relative;
+    bottom: 30%;
+}
+.imgBox{
+    position: relative;
+    bottom: 20%;
+}
+    
+}
+@media (min-width:320px) { 
+    section {
+        position: relative;
+        top: 610px !important;
+        bottom: 0;
+    }
+.titilex{
+    box-sizing: border-box;
+    position: relative;
+    bottom: 28%;
+}
+.imgBox{
+    position: relative;
+    bottom: 16%;
+}
+    
+}
+
+
+@media (min-width:360px) { 
+    section {
+        position: relative;
+        top: 610px !important;
+        bottom: 0;
+    }
+.titilex{
+    box-sizing: border-box;
+    position: relative;
+    bottom:21%;
+}
+    
+.imgBox{
+    position: relative;
+    bottom: 12%;
+}
+}
+
+
+@media (min-width:480px) { 
+    section {
+        position: relative;
+        top: 610px !important;
+        bottom: 0;
+    }
+.titilex{
+    box-sizing: border-box;
+    position: relative;
+    bottom:23%;
+}
+    
+.imgBox{
+    position: relative;
+    bottom: 12%;
+}
+    
+}
+
+
+@media (min-width: 576px) { 
+    section {
+        position: relative;
+        top: 610px !important;
+        bottom: 0;
+    }
+.titilex{
+    box-sizing: border-box;
+    position: relative;
+    bottom:24%;
+}
+    
+.imgBox{
+    position: relative;
+    bottom: 12%;
+}
+
+ }
+
+
+
+ @media (min-width: 768px) { 
+     
+    section {
+        position: relative;
+        top: 0!important;
+        bottom: 0;
+    }
+.titilex{
+    box-sizing: border-box;
+    position: relative;
+    bottom:33%;
+}
+    
+.imgBox{
+    position: relative;
+    bottom: 22%;
+}
+
+ }
+
+
+
+ @media (min-width: 992px) { 
+     
+.unn{ 
+    font-size: 28px!important;
+    font-family:var(--fon);
+    color: #000!important;
+}
+     
+ .tx h4{
+    font-size: 48.30px;
+}
+.tx p{
+    font-size: 18px;
+    color: #ff3946;
+}
+    section {
+        position: relative;
+        top: 0!important;
+        bottom: 0;
+    }ex{
+    box-sizing: border-box;
+    position: relative;
+    bottom:27%;
+}
+    
+.imgBox{
+    position: relative;
+    bottom: 16%;
+}
+
+.bxxtitle h2{
+    font-size: 48.43px!important;
+}
+.bxxtitle span{
+    font-size: 18px!important;
+}
+
+ .st h4{
+     font-size: 48.43px!important;
+ }
+ 
+.ntx{
+    font-size: 18px;
+    color: #ff3946;
+}
+.ntzz{
+    font-size: 48.30px;
+}
+
+ }
+
+
+
+ @media (min-width: 1200px) { 
+         
+.unn{ 
+    font-size: 28px!important;
+    font-family:var(--fon);
+    color: #000!important;
+}
+    
+     
+ .tx h4{
+    font-size: 48.30px;
+}
+.tx p{
+    font-size: 18px;
+    color: #ff3946;
+}
+    section {
+        position: relative;
+        top: 0!important;
+        bottom: 0;
+    }
+    .box h1{
+        font-size:73.48px;
+        font-weight:bold;
+    }
+      
+.titilex{
+    box-sizing: border-box;
+    position: relative;
+    bottom:23%;
+}
+    
+    
+ 
+.cBox h3{
+    
+    font-size: 45px;
+    color: #314584;
+    font-weight: bold;
+
+}
+.crds h4{
+    font-size: 27px;
+}
+.imgBox{
+    position: relative;
+    bottom: 12%;
+}
+
+.bxxtitle h2{
+    font-size: 48.43px!important;
+}
+.bxxtitle span{
+    font-size: 18px!important;
+}
+
+ .st h4{
+     font-size: 48.43px!important;
+ }
+ 
+.ntx{
+    font-size: 18px;
+    color: #ff3946;
+}
+.ntzz{
+    font-size: 48.30px;
+}
+ }
+
+
+ 
+
+ @media (min-width: 1280px) { 
+         
+.unn{ 
+    font-size: 28px!important;
+    font-family:var(--fon);
+    color: #000!important;
+}
+    
+     
+ .tx h4{
+    font-size: 48.30px;
+}
+.tx p{
+    font-size: 18px;
+    color: #ff3946;
+}
+.ntx{
+    font-size: 18px;
+    color: #ff3946;
+}
+.ntzz{
+    font-size: 48.30px;
+}
+    section {
+        position: relative;
+        top: 0!important;
+        bottom: 0;
+    }
+    .box h1{
+        font-size:73.48px;
+        font-weight:bold;
+    }
+      
+.titilex{
+    box-sizing: border-box;
+    position: relative;
+    bottom:23%;
+}
+    
+    
+ 
+.cBox h3{
+    
+    font-size: 45px;
+    color: #314584;
+    font-weight: bold;
+
+}
+.crds h4{
+    font-size: 27px;
+}
+.imgBox{
+    position: relative;
+    bottom: 12%;
+}
+
+.bxxtitle h2{
+    font-size: 48.43px!important;
+}
+.bxxtitle span{
+    font-size: 18px!important;
+}
+
+ .st h4{
+     font-size: 48.43px!important;
+ }
+ 
+ }
